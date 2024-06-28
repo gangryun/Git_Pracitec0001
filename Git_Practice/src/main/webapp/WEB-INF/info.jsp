@@ -8,6 +8,12 @@
 </head>
 <body>
 	<h2>안녕하세요.</h2>
+<<<<<<< HEAD
 	<a>버튼</a>
+=======
+
+	<p>하이요</p>
+
+>>>>>>> branch 'main' of https://github.com/gangryun/Git_Pracitec0001.git
 </body>
 </html>
