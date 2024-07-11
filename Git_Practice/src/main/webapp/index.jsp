@@ -7,26 +7,7 @@
 <title>첫페이지</title>
 </head>
 <body>
-	<form action="./home.do" method="post">
-		<input type="text" name="name"><br>
-		<input type="submit" value="요청">
-	</form>
-	<form action="./home.do" method="post">
-		<input type="text" name="name"><br>
-		<input type="submit" value="요청">
-	</form>
-	<form action="./home.do" method="post">
-		<input type="text" name="name"><br>
-		<input type="submit" value="요청">
-	</form>
-	<form action="./home.do" method="post">
-		<input type="text" name="name"><br>
-		<input type="submit" value="요청">
-	</form>
-	<form action="./home.do" method="post">
-		<input type="text" name="name"><br>
-		<input type="submit" value="요청">
-	</form>
+	<a href="./git1.jsp">가즈아~</a>
 	<form action="./home.do" method="post">
 		<input type="text" name="name"><br>
 		<input type="submit" value="요청">
